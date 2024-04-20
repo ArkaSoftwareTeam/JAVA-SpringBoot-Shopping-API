@@ -106,4 +106,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Feel free to customize this template according to your project's specifics.
